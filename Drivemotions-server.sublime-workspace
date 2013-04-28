@@ -1,0 +1,839 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newEvent"
+			],
+			[
+				"compo",
+				"composerEvents"
+			],
+			[
+				"col",
+				"colorRed"
+			],
+			[
+				"colo",
+				"colorGreen"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"canvas",
+				"canvasH"
+			],
+			[
+				"Habi",
+				"habilidades"
+			],
+			[
+				"us",
+				"userPassi"
+			],
+			[
+				"popu",
+				"populateorders"
+			],
+			[
+				"id",
+				"id_table"
+			],
+			[
+				"category",
+				"id_category"
+			],
+			[
+				"selecto",
+				"selectorRating"
+			],
+			[
+				"selector",
+				"selectorRatingText"
+			],
+			[
+				"sele",
+				"selectorRating"
+			],
+			[
+				"observa",
+				"observable"
+			],
+			[
+				"com",
+				"companyGapArray  (variable)"
+			],
+			[
+				"curre",
+				"currentCompany"
+			],
+			[
+				"be",
+				"beginDate"
+			],
+			[
+				"curren",
+				"current_offer_line"
+			],
+			[
+				"current",
+				"current_offer_line"
+			],
+			[
+				"compa",
+				"companyGapArray"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"wei",
+				"weight"
+			],
+			[
+				"Re",
+				"Requirement"
+			],
+			[
+				"inne",
+				"innerHTML  (variable)"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"ac",
+				"activity"
+			],
+			[
+				"cur",
+				"currentSelector"
+			],
+			[
+				"selected",
+				"selectedSelector"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"class",
+				"classType"
+			],
+			[
+				"res",
+				"result_widget"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"curr",
+				"currentCompany"
+			],
+			[
+				"skill",
+				"skill-level-closure"
+			],
+			[
+				"inline",
+				"inline-block  (value)"
+			],
+			[
+				"rep",
+				"replace"
+			],
+			[
+				"mc",
+				"mCapabilities"
+			],
+			[
+				"mCapa",
+				"mCapabilities"
+			],
+			[
+				"repla",
+				"replaceAll"
+			],
+			[
+				"mC",
+				"mCapabilities"
+			],
+			[
+				"lis",
+				"list_companies"
+			],
+			[
+				"data",
+				"data-description"
+			],
+			[
+				"titl",
+				"titlebar"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"lett",
+				"letter-spacing:   (property)"
+			],
+			[
+				"load",
+				"loadCompanies"
+			],
+			[
+				"par",
+				"parent  (function)"
+			],
+			[
+				"dropp",
+				"droppable"
+			],
+			[
+				"list_o",
+				"list_offers"
+			],
+			[
+				"list_",
+				"list_offers"
+			],
+			[
+				"drop",
+				"dropifier"
+			],
+			[
+				"html",
+				"htmlCompanies"
+			],
+			[
+				"hook",
+				"hookTemperature"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"flig",
+				"flightQuery"
+			],
+			[
+				"renfe",
+				"renfeQuery"
+			],
+			[
+				"trenes",
+				"trenesJson"
+			],
+			[
+				"ca",
+				"cantidad"
+			],
+			[
+				"chil",
+				"childs"
+			],
+			[
+				"pr",
+				"prop"
+			],
+			[
+				"sr",
+				"stringify"
+			],
+			[
+				"obj",
+				"obj"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"obje",
+				"objeto"
+			],
+			[
+				"socke",
+				"socketA"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 209,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 291.0,
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"markdo",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"markdow",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"jade",
+				"HTML2Jade: Convert selection"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"coffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/carloscrespog/Documents/Drivemotion-server/package.json",
+		"/Users/carloscrespog/Documents/Escroto Apps/rPI/drivemotion.sh",
+		"/Users/carloscrespog/Documents/Scrappy/playground/appRule.sh",
+		"/Users/carloscrespog/Documents/Escroto Apps/rPI/driveMotionC.cpp",
+		"/Users/carloscrespog/Documents/Escroto Apps/rPI/Raspberry pi - Atos.md",
+		"/Users/carloscrespog/Documents/workspaceDrools/Prototype/NodeEvented/views/index.jade",
+		"/Users/carloscrespog/Documents/workspaceDrools/Prototype/NodeEvented/public/js/jquery.user.js",
+		"/Users/carloscrespog/Documents/workspaceDrools/Prototype/NodeEvented/routes/index.js",
+		"/Users/carloscrespog/Documents/workspaceDrools/Prototype/NodeEvented/views/layout.jade",
+		"/Users/carloscrespog/Documents/workspaceDrools/Prototype/NodeEvented/NodeEvented.sublime-project",
+		"/Users/carloscrespog/Sites/Admin-interface/untitled.jade",
+		"/Users/carloscrespog/Sites/Admin-interface/index.html",
+		"/Users/carloscrespog/Documents/workspaceDrools/Prototype/NodeEvented/user.js",
+		"/Users/carloscrespog/Documents/workspaceDrools/Prototype/NodeEvented/index.html",
+		"/Users/carloscrespog/Documents/workspaceDrools/Prototype/NodeEvented/NodeEvented.js",
+		"/Users/carloscrespog/Documents/AmarettoApp/views/layout.jade",
+		"/Users/carloscrespog/Documents/Escroto Apps/rPI/eHealth.h",
+		"/Users/carloscrespog/Documents/Escroto Apps/rPI/eHealth.cpp",
+		"/Users/carloscrespog/Documents/Escroto Apps/rPI/rfcommm.cpp",
+		"/Users/carloscrespog/Documents/Escroto Apps/rPI/arduPi_1-4/arduPi.h",
+		"/Users/carloscrespog/Documents/Escroto Apps/rPI/arduPi_1-4/arduPi_template.cpp",
+		"/Users/carloscrespog/Documents/Escroto Apps/rPI/arduPi_1-4/arduPi.cpp",
+		"/Users/carloscrespog/Documents/Escroto Apps/rPI/rfcommmclient.cpp",
+		"/Users/carloscrespog/Documents/workspaceDrools/Prototype/NodeEvented/node_modules/express/package.json",
+		"/Users/carloscrespog/Library/Application Support/Sublime Text 2/Packages/Markdown Preview/sample.md",
+		"/Users/carloscrespog/Documents/Escroto Apps/rPI/eHealth/eHealth.h",
+		"/Users/carloscrespog/Documents/Escroto Apps/rPI/example1.cpp",
+		"/Users/carloscrespog/Documents/Escroto Apps/rPI/eHealth/eHealth.cpp",
+		"/Users/carloscrespog/Downloads/eHealth 2/eHealth.cpp",
+		"/Users/carloscrespog/Downloads/java3d-core/build.xml",
+		"/Users/carloscrespog/Documents/Drools/asset.xml",
+		"/Users/carloscrespog/Downloads/MyRule.drl",
+		"/Users/carloscrespog/Documents/Drools/jboss-as-7.1.1.Final/standalone/configuration/application-roles.properties",
+		"/Users/carloscrespog/Documents/Drools/jboss-as-7.1.1.Final/standalone/deployments/guvnor.war.failed",
+		"/Users/carloscrespog/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/carloscrespog/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/carloscrespog/Documents/AmarettoApp/package.json",
+		"/Users/carloscrespog/Downloads/package.js",
+		"/Users/carloscrespog/Downloads/carrousel.html",
+		"/Users/carloscrespog/Documents/AmarettoApp/procfile",
+		"/Users/carloscrespog/Downloads/serial.txt",
+		"/Users/carloscrespog/Sites/Admin-interface/assets/css/bootstrap.css",
+		"/Users/carloscrespog/Sites/Episteme/js/jquery.wizard.user.js",
+		"/Users/carloscrespog/Sites/Admin-interface/assets/js/user.js",
+		"/Users/carloscrespog/Sites/Admin-interface/assets/js/myCategoriesjson.js",
+		"/Users/carloscrespog/Sites/Admin-interface/assets/js/myjson.js",
+		"/Users/carloscrespog/Sites/Admin-interface/assets/js/myOrderJson.js",
+		"/Users/carloscrespog/Sites/Admin-interface/assets/js/jquery.flot.js",
+		"/Users/carloscrespog/Sites/Episteme/js/jquery.composer.user.js",
+		"/Users/carloscrespog/Downloads/bootstrap (1)/js/bootstrap.js",
+		"/Users/carloscrespog/Sites/Admin-interface/justified-nav.html",
+		"/Users/carloscrespog/Documents/LSIN/apache-mahout-examples/src/main/resourcesfm/artistsIds.xml",
+		"/Users/carloscrespog/Documents/LSIN/apache-mahout-examples/src/main/resourcesfm/recommendationsLastFM.txt",
+		"/Users/carloscrespog/Documents/LSIN/apache-mahout-examples/build.xml",
+		"/Users/carloscrespog/Documents/LSIN/apache-mahout-examples/src/main/resources/recommendations.txt",
+		"/Users/carloscrespog/Documents/LSIN/apache-mahout-examples/src/main/resources/docIdsTitles.xml",
+		"/Users/carloscrespog/Documents/Drools/jboss-as-7.1.1.Final/standalone/deployments/guvnor-5.5.0.Final-jboss-as-7.0.war.failed",
+		"/Users/carloscrespog/Documents/workSpaceAndroidNew/AnimationsDemo/AndroidManifest.xml",
+		"/Users/carloscrespog/Documents/workSpaceAndroidNew/com-escrotoapps-kitchen/app/.classpath",
+		"/Users/carloscrespog/Documents/workSpaceAndroidNew/com-escrotoapps-kitchen/app/.project",
+		"/Users/carloscrespog/.android/adb_usb.ini",
+		"/Users/carloscrespog/Documents/Robotrader/TWS",
+		"/Users/carloscrespog/Documents/impress.js-master/index.html",
+		"/Users/carloscrespog/Documents/Scrappy/scrappy/extractors/iftttAppRule.yarf",
+		"/Users/carloscrespog/Downloads/descarga (2).pdf",
+		"/Users/carloscrespog/Documents/SINT/iftttRecipe.rdf",
+		"/Users/carloscrespog/Music/renamer.sh",
+		"/Users/carloscrespog/Documents/Scrappy/subclasser.sh",
+		"/Users/carloscrespog/Documents/Importante/firmaRosa.html",
+		"/Users/carloscrespog/Dropbox/Public/Scrappy/Postprocesadores/appRule.sh",
+		"/Users/carloscrespog/Documents/Scrappy/zapier_nov2012_v2_1.rdf",
+		"/Users/carloscrespog/Downloads/ifttt_output/ifttt_com-channels-gmail-actions-34.rdf",
+		"/Users/carloscrespog/Downloads/ifttt_output/ifttt_com-channels-gmail-triggers-85.rdf",
+		"/Users/carloscrespog/Downloads/ifttt_output/ifttt_com-channels-gmail-triggers-86.rdf",
+		"/Users/carloscrespog/Downloads/ifttt_output/ifttt_com-gmail.rdf",
+		"/Users/carloscrespog/Downloads/ifttt_output/ifttt_com-weather.rdf",
+		"/Users/carloscrespog/Downloads/ifttt_output/ifttt_com-channels-weather-triggers-7.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/onxBluetooth.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/onxRecipes.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/scrappy/extractors/ifttt.yarf",
+		"/Users/carloscrespog/Documents/Scrappy/playground/ifttt_output/joined.rdf",
+		"/Users/carloscrespog/Documents/SINT/Ontology1355819122550.owl",
+		"/Users/carloscrespog/Documents/SINT/OWL-MarinaGonzalez/Ontologia videojuegos.owl",
+		"/Users/carloscrespog/Documents/SINT/carlos.crespog-n3.n3",
+		"/Users/carloscrespog/Documents/SINT/carlos.crespog-foaf.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/ifttt/ifttt_output/ifttt_com-channels-blogger-triggers-133.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/ifttt/ifttt_output/ifttt_com-channels-blogger-actions-58.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/ifttt/ifttt_output/ifttt_com-blogger.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/ifttt/ifttt_output/onxBluetooth2.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/ifttt/gtalkifttt.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/outputs/ifttt_com-recipes-14.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/ifttt/ifttt_output/ifttt_com-channels-appdotnet-actions-77.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/ifttt/ifttt_output/onxBluetooth.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/ifttt/ifttt_output/ifttt_com-channels-delicious-triggers-15.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/scrappy/extractors/brainstormUbuntu.yarf",
+		"/Users/carloscrespog/Documents/Scrappy/scrappy/extractors/onx.yarf",
+		"/Users/carloscrespog/Documents/Scrappy/scrappy/extractors/vulka.yarf",
+		"/Users/carloscrespog/Documents/Scrappy/scrappy/extractors/elmundoTest.yarf",
+		"/Users/carloscrespog/Documents/LRST/LRST-p3-p5/escenario5.tcl",
+		"/Users/carloscrespog/Documents/LRST/LRST-p3-p5/escenario4.tcl",
+		"/Users/carloscrespog/Documents/LRST/LRST-p3-p5/escenario3.tcl",
+		"/Users/carloscrespog/Documents/LRST/LRST-p3-p5/escenario2.tcl",
+		"/Users/carloscrespog/Documents/LRST/LRST-p3-p5/escenario1.tcl",
+		"/Users/carloscrespog/Documents/Scrappy/playground/ifttt_com-recipes-3.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/playground/ifttt_com-recipes-2.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/playground/ifttt_com-recipes-1.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/outputs/ifttt_com-recipes-11.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/outputs/ifttt_com-recipes-15.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/outputs/ifttt_com-recipes-17.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/outputs/ifttt_com-recipes-2.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/outputs/ifttt_com-recipes-3.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/outputs/ifttt_com-recipes-6.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/outputs/ifttt_com-recipes-7.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/outputs/ifttt_com-recipes-9.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/outputs/ifttt_com-recipes-1.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/playground/temp",
+		"/Users/carloscrespog/Documents/Scrappy/outputs/ifttt_com-recipes-13.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/outputs/ifttt_com-recipes-2065.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/ifttt/ifttt_output/ifttt_com-boxcar.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/scrappy/elmundo.yarf",
+		"/Users/carloscrespog/Documents/Scrappy/outputs/www_elmundo_es-.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/outputs/www_elmundo_es-elmundo-2012-11-26-gentes-1353940118_html.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/outputs/www_elmundo_es-elmundo-2012-11-26-comunicacion-1353945952_html.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/outputs/elmundo_orbyt_es-2012-11-26-orbyt_en_elmundo-1353929987_html.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/outputs/ifttt_com-google_talk.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/scrappy/extractors/ifttt2.yarf",
+		"/Users/carloscrespog/Documents/Scrappy/outputs/ifttt_com-channels-google_talk-actions-23.rdf",
+		"/Users/carloscrespog/Documents/Scrappy/outputs/ifttt_com-channels-google_talk-triggers-67.rdf"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\n",
+			"removepro",
+			"delete",
+			"remove",
+			"delete",
+			"button",
+			"serial",
+			"wstype",
+			"init-jogl",
+			"jogl",
+			"table",
+			"map",
+			"data-bind",
+			"data",
+			"appview",
+			"económino",
+			"warnin",
+			"js",
+			"featurem",
+			"console",
+			"color",
+			"console",
+			"jsonData",
+			"array",
+			"remove",
+			"val",
+			"jumbotron",
+			"header",
+			"navbar-fixed",
+			"bootstrap",
+			"hasIngredient",
+			"inputparameter",
+			"Outputparameter",
+			"PArameter",
+			"service",
+			"event",
+			"apprule",
+			"dcterms",
+			"foaf",
+			"ewe",
+			"<rdf:RDF\n   xmlns:dcterms=\"http://purl.org/dc/terms/\"\n   xmlns:ewe=\"http://www.semanticweb.org/ontologies/2012/9/ewe.owl#\"\n   xmlns:owl=\"http://www.w3.org/2002/07/owl#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">",
+			"</rdf:RDF>",
+			"<rdf:RDF\n   xmlns:dcterms=\"http://purl.org/dc/terms/\"\n   xmlns:ewe=\"http://www.semanticweb.org/ontologies/2012/9/ewe.owl#\"\n   xmlns:foaf=\"http://xmlns.com/foaf/0.1/\"\n   xmlns:owl=\"http://www.w3.org/2002/07/owl#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\">",
+			"<?xml version=\"1.0\" encoding=\"utf-8\"?>",
+			"#",
+			"mrthandle",
+			"word",
+			"sequence",
+			"prefix",
+			"identifier",
+			"prefix",
+			"xpath",
+			"slice",
+			"ewe: http://www.semanticweb.org/ontologies/2012/9/ewe.owl#\ndcterms: http://purl.org/dc/terms/\nfoaf: http://xmlns.com/foaf/0.1/\nowl: http://www.w3.org/2002/07/owl#\nrdfs: http://www.w3.org/2000/01/rdf-schema#\nrdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#\nsc: http://lab.gsi.dit.upm.es/scraping.rdf#\n\n_:AppRuleIndex:\n  rdf:type: sc:Fragment\n  sc:identifier:\n    *:\n      rdf:type: sc:BaseUriSelector\n  sc:selector:\n    *:\n      rdf:type: sc:UriPatternSelector\n      rdf:value: \"https://ifttt.com/recipes*\"\n  sc:subfragment:\n    *:\n      sc:type: sc:Index\n      sc:selector:\n        *:\n          rdf:type: sc:CssSelector\n          rdf:value: \".shared-recipe-in-list\"\n      sc:identifier:\n        *:\n          rdf:type: sc:CssSelector\n          rdf:value: \"a\"\n          sc:attribute: \"href\"\n      sc:subfragment:\n        *:\n          sc:type: rdf:Literal\n          sc:relation: dcterms:title\n          sc:selector:\n            *:\n              rdf:type: sc:CssSelector\n              rdf:value: \".shared-recipe-in-list_details\"",
+			"#\n",
+			"sc:identifier",
+			"identifier",
+			"sc:type",
+			"rdfs",
+			"sc:subfr",
+			"identifier",
+			"sc:prefix:",
+			"page",
+			"logo+",
+			"logo",
+			"rdfs",
+			"xsd",
+			"hascategory",
+			"html",
+			"la banca",
+			"weightLeft",
+			"currentcomp",
+			"currentkey",
+			"selectedChoice",
+			"RefreshWeightLeft",
+			"sliderIt",
+			"image",
+			"loadSector",
+			"currentCompany",
+			"style=\"wi",
+			"console.log",
+			"add-arro",
+			"employer",
+			"Datos",
+			"weight",
+			"code",
+			"requirement",
+			"localization",
+			"j.0",
+			"gsi",
+			"gsi:description",
+			"gsi:name",
+			"v:",
+			"rdf:nodeID",
+			"addWidget",
+			"showIt",
+			"temp-placeholder",
+			"h2",
+			"widget",
+			"heigh",
+			"height",
+			"console",
+			"console.log",
+			"addWid",
+			"doRe",
+			"loadCompa",
+			"addWidge",
+			"Manager.store",
+			"$('.list_companies').parent().show();",
+			"result_widget",
+			"console.log",
+			"label",
+			"add-arrow",
+			"/value",
+			"new_offer",
+			"add-arrow",
+			"add-arraow",
+			"big boy",
+			"late",
+			".ui-state-highlight",
+			"skill-level",
+			"selection-panel h2",
+			"form",
+			"new_offer_entry",
+			"loadComp",
+			"$('.list_companies').parent()",
+			"$('.list_companies').parent().hide()",
+			"active"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"gm",
+				"/Users/carloscrespog/Sites/js/ajax-solr/widget/AutocompleteWidget.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true
+}
