@@ -14,7 +14,7 @@ var app = express();
 var activeClients = 0;
 
 app.configure(function(){
-  app.set('port', process.env.PORT || 3000);
+  app.set('port', process.env.PORT || 5000);
   app.set('views', __dirname + '/views');
   app.set('view engine', 'jade');
   app.use(express.favicon());
@@ -37,7 +37,10 @@ var server=http.createServer(app).listen(app.get('port'), function(){
 });
 
 var io = require('socket.io').listen(server);
-
+io.configure(function () {
+  io.set("transports", ["xhr-polling"]);
+  io.set("polling duration", 10);
+});
 io.sockets.on('connection', function(socket){
   clientConnect(socket);
 });
