@@ -49,7 +49,11 @@ function clientConnect(socket){
   activeClients +=1;
   io.sockets.emit('message', {clients:activeClients});
   socket.on('info',function(msg){
+    console.log("------------------------");
     console.log(msg);
+    io.sockets.emit('data',{
+      eHealth:msg
+    });
   });
   socket.on('disconnect', function(){
     clientDisconnect();
