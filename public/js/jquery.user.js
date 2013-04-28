@@ -15,7 +15,8 @@ $(document).ready(function() {
 	var socket = io.connect(window.location.hostname);
 	console.log(window.location.hostname);
 	socket.on('message', function(msg){msgReceived(msg);});
-	socket.on('info',function(msg){
+	socket.on('data',function(msg){
+		console.log("info received");
 		eHealthReceived(msg);
 	});
 
