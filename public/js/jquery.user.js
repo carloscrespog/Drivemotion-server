@@ -2,7 +2,7 @@ $(document).ready(function() {
 
 
 	var data = [],
-	totalPoints = 100;
+	totalPoints = 20;
 
 	dataInit();
 
