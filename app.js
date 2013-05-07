@@ -12,6 +12,7 @@ var express = require('express')
 var app = express();
 
 var activeClients = 0;
+  var room ='room';
 
 app.configure(function(){
   app.set('port', process.env.PORT || 5000);
@@ -46,12 +47,15 @@ io.sockets.on('connection', function(socket){
 });
 
 function clientConnect(socket){
+
   activeClients +=1;
-  io.sockets.emit('message', {clients:activeClients});
+  io.sockets.in(room).emit('message', {clients:activeClients});
+  socket.on('subscribe', function(room) { socket.join(room);
+  io.sockets.in(room).emit('message', {clients:activeClients}); });
   socket.on('info',function(msg){
     console.log("------------------------");
     console.log(msg);
-    io.sockets.emit('data',{
+    io.sockets.in(room).emit('data',{
       eHealth:msg
     });
   });

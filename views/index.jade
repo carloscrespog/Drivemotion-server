@@ -1,9 +1,36 @@
 extends layout
 
 block content
-	h1= title
-	p Welcome to #{title}
-	span#client_count 0
-	span  connected clients
+	.row-fluid
+		.span12.jumbotron
+			h1= title
+			//p Welcome to #{title}
+	.container-fluid
+		.row-fluid
+			.span12.well		
+				.lead Current clients connected:
+				h1.pull-right#client_count 0 
+		.row-fluid
+			
+			.span6.well
+				.lead Heart Rate
+					img.pull-left(src="/images/heartbeatoff.png",style="width:40px")
+				h1.pull-right#heartRate 0 bpm
+			.span6.well
+				.lead Oxygen Saturation
+					img.pull-left(src="/images/o2off.png",style="width:40px")
+				h1.pull-right#oxSat 0 %
+		.row-fluid
+			.span6.well
+				.lead Skin Conductivity
+					img.pull-left(src="/images/condoff.png",style="width:40px")
+				h1.pull-right#skCond 0 µS
+			.span6.well
+				.lead Body Temperature
+					img.pull-left(src="/images/tempoff.png",style="width:40px")
+				h1.pull-right#bdytmp 0 ºC
+	#content
+		.demo-placeholder
+			#placeholder.demo-container
 	br
-	span#eHealth no Data
+	span#eHealth 
